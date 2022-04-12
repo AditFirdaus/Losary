@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fdc836d892a79141ac1a4583935c904, type: 3}
+  m_Name: Delivey Quest
+  m_EditorClassIdentifier: 
+  perlinDatas:
+  - {fileID: 11400000, guid: 66a0b6c331c1e1f4689f04f0827b337a, type: 2}
+  - {fileID: 11400000, guid: b4334c88afa54914fa93190eddf9f625, type: 2}
+  - {fileID: 11400000, guid: 674a86de687ca2647875c9e79f183dd4, type: 2}
+  - {fileID: 11400000, guid: 9d645d557065e714986731dbd8fb0897, type: 2}
+  - {fileID: 11400000, guid: 6953ddc6598d3de47842b282489c052c, type: 2}
+  - {fileID: 11400000, guid: e4a6ab5c0f83a5f449cccb6bdfb9ddaf, type: 2}
+  startHarbor: {fileID: 0}
+  endHarbor: {fileID: 0}
+  perlinData: {fileID: 11400000, guid: b4334c88afa54914fa93190eddf9f625, type: 2}
